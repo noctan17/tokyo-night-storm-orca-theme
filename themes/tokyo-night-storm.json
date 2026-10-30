@@ -1,12 +1,12 @@
 {
   "base": "dark",
   "tokens": {
-    "--background": "#24283b",
-    "--editor-surface": "#24283b",
+    "--background": "#1f2335",
+    "--editor-surface": "#1f2335",
     "--foreground": "#c0caf5",
-    "--card": "#1f2335",
+    "--card": "#1b1e2e",
     "--card-foreground": "#c0caf5",
-    "--popover": "#1f2335",
+    "--popover": "#1b1e2e",
     "--popover-foreground": "#c0caf5",
     "--primary": "#7aa2f7",
     "--primary-foreground": "#1f2335",
@@ -16,20 +16,20 @@
     "--muted-foreground": "#9aa5ce",
     "--accent": "#2c324a",
     "--accent-foreground": "#c0caf5",
-    "--border": "#1b1e2e",
-    "--input": "#1b1e2e",
-    "--ring": "#3d59a1",
+    "--border": "#16161e",
+    "--input": "#16161e",
+    "--ring": "#7aa2f7",
     "--chart-1": "#7aa2f7",
     "--chart-2": "#9ece6a",
     "--chart-3": "#e0af68",
     "--chart-4": "#bb9af7",
     "--chart-5": "#7dcfff",
-    "--sidebar": "#1f2335",
+    "--sidebar": "#1b1e2e",
     "--sidebar-foreground": "#c0caf5",
     "--sidebar-accent": "#292e42",
     "--sidebar-accent-foreground": "#c0caf5",
-    "--sidebar-border": "#1b1e2e",
-    "--sidebar-ring": "#3d59a1"
+    "--sidebar-border": "#16161e",
+    "--sidebar-ring": "#7aa2f7"
   },
   "tokenColors": [
     {
@@ -718,7 +718,7 @@
     {
       "scope": "entity.name.type",
       "settings": {
-        "foreground": "#f7768e"
+        "foreground": "#2ac3de"
       }
     }
   ]

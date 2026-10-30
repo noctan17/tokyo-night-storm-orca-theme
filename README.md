@@ -31,10 +31,12 @@ VS Code の [Tokyo Night](https://github.com/tokyo-night/tokyo-night-vscode-them
   - `#5f6996` → `#66709e`（コメント、Markdown の区切り線）
   - `#ba3c97` → `#c03e9c`（タグの `<` `>`）
   - `#914c54` → `#a95a64`（diff の削除行）
+- 背景は VS Code 版より 1 段暗くしている（エディタ `#1f2335`、サイドバー・ターミナル `#1b1e2e`、境界線 `#16161e`）
+- カーソルと選択範囲を見やすくするため、`--ring` を `#7aa2f7` にしている
 - 文字を読みやすくするため、UI とターミナルの文字色を `#c0caf5` に揃えている（ターミナルの `white` は `#a9b1d6`）
 - Orca の Python / YAML のトークン分類に合わせて、次の色を VS Code の見た目に寄せている
   - `entity.name.tag` を `#7aa2f7` にしている（Python のデコレータが青になる。HTML/XML のタグ名も青になる）
-  - `entity.name.type` を `#f7768e` にしている（YAML のキーが赤になる。TypeScript のクラス名・型名も赤になる）
+  - `entity.name.type` を `#2ac3de` にしている（YAML のキーと、JS/TS の大文字始まりの名前が水色になる）
 
 ## License
 
