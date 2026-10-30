@@ -116,7 +116,6 @@
     "yarn.lock": "icons/material/yarn.svg"
   },
   "fileExtensions": {
-    "*.log.?": "icons/material/log.svg",
     "ascx": "icons/material/xml.svg",
     "asp": "icons/material/html.svg",
     "aspx": "icons/material/html.svg",
@@ -477,6 +476,7 @@
     "webmanifest": "icons/material/json.svg",
     "webp": "icons/material/image.svg",
     "whl": "icons/material/python-misc.svg",
+    "winget": "icons/material/yaml.svg",
     "wixproj": "icons/material/visualstudio.svg",
     "woff2": "icons/material/font.svg",
     "workbook": "icons/material/markdown.svg",
