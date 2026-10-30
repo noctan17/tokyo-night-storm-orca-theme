@@ -3,7 +3,7 @@
   "id": "tokyo-night-storm-theme",
   "publisher": "noctan17",
   "name": "Tokyo Night Storm",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "execution": "data",
   "description": "Tokyo Night Storm for Orca, ported from the VS Code Tokyo Night theme.",
   "license": "MIT",
@@ -24,6 +24,13 @@
         "id": "tokyo-night-storm",
         "title": "Tokyo Night Storm",
         "path": "terminal/tokyo-night-storm.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "material",
+        "title": "Material Icons",
+        "path": "icons/theme.json"
       }
     ]
   },

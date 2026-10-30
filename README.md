@@ -9,6 +9,14 @@ VS Code の [Tokyo Night](https://github.com/tokyo-night/tokyo-night-vscode-them
 | --- | --- |
 | アプリテーマ（UI + コード配色） | `themes/tokyo-night-storm.json` |
 | ターミナルテーマ（ANSI 16 色） | `terminal/tokyo-night-storm.json` |
+| ファイルアイコン（Material Icons） | `icons/theme.json` |
+
+## ファイルアイコン
+
+[Material Icon Theme](https://github.com/material-extensions/vscode-material-icon-theme)（pkief.material-icon-theme 5.40.0）の SVG を使っている。
+
+- Orca のアイコンテーマは割り当てが最大 512 件のため、よく使うファイル名・拡張子と VS Code 組み込み言語の拡張子に絞っている
+- Orca はフォルダ名ごとのアイコンに対応していないため、フォルダはすべて共通のアイコンになる
 
 ## ローカルで試す
 
