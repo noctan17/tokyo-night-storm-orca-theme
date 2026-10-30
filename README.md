@@ -32,6 +32,7 @@ VS Code の [Tokyo Night](https://github.com/tokyo-night/tokyo-night-vscode-them
   - `#ba3c97` → `#c03e9c`（タグの `<` `>`）
   - `#914c54` → `#a95a64`（diff の削除行）
 - 背景は VS Code 版より 1 段暗くしている（エディタ `#1f2335`、サイドバー・ターミナル `#1b1e2e`、境界線 `#16161e`）
+- ターミナルの ANSI 16 色は Orca 内蔵の Tokyo Night と同じ値にしている（VS Code 版とは `black` `green` `brightGreen` が異なる）
 - カーソルと選択範囲を見やすくするため、`--ring` を `#7aa2f7` にしている
 - 文字を読みやすくするため、UI とターミナルの文字色を `#c0caf5` に揃えている（ターミナルの `white` は `#a9b1d6`）
 - Orca の Python / YAML のトークン分類に合わせて、次の色を VS Code の見た目に寄せている
