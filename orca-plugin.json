@@ -1,0 +1,31 @@
+{
+  "manifestVersion": 2,
+  "id": "tokyo-night-storm-theme",
+  "publisher": "noctan17",
+  "name": "Tokyo Night Storm",
+  "version": "1.0.0",
+  "execution": "data",
+  "description": "Tokyo Night Storm for Orca, ported from the VS Code Tokyo Night theme.",
+  "license": "MIT",
+  "repository": "https://github.com/noctan17/tokyo-night-storm-orca-theme",
+  "engines": {
+    "orca": ">=1.4.245"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "id": "tokyo-night-storm",
+        "title": "Tokyo Night Storm",
+        "path": "themes/tokyo-night-storm.json"
+      }
+    ],
+    "terminalThemes": [
+      {
+        "id": "tokyo-night-storm",
+        "title": "Tokyo Night Storm",
+        "path": "terminal/tokyo-night-storm.json"
+      }
+    ]
+  },
+  "capabilities": []
+}
