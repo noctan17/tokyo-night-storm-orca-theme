@@ -3,7 +3,7 @@
   "mode": "dark",
   "terminal": {
     "background": "#1f2335",
-    "foreground": "#8089b3",
+    "foreground": "#c0caf5",
     "cursor": "#c0caf5",
     "selectionBackground": "#333955",
     "black": "#414868",
@@ -13,7 +13,7 @@
     "blue": "#7aa2f7",
     "magenta": "#bb9af7",
     "cyan": "#7dcfff",
-    "white": "#8089b3",
+    "white": "#a9b1d6",
     "brightBlack": "#414868",
     "brightRed": "#f7768e",
     "brightGreen": "#73daca",
@@ -21,6 +21,6 @@
     "brightBlue": "#7aa2f7",
     "brightMagenta": "#bb9af7",
     "brightCyan": "#7dcfff",
-    "brightWhite": "#a9b1d6"
+    "brightWhite": "#c0caf5"
   }
 }
